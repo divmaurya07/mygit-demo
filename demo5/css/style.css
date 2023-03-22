@@ -34,7 +34,7 @@
 html,
 body {
 	height: 100%;
-	font-family: "Poppins", sans-serif;
+	font-family: "raleway";
 	-webkit-font-smoothing: antialiased;
 }
 
@@ -47,7 +47,7 @@ h6 {
 	margin: 0;
 	color: #111111;
 	font-weight: 400;
-	font-family: "Aldrich", sans-serif;
+	font-family: "raleway";
 }
 
 h1 {
@@ -76,7 +76,7 @@ h6 {
 
 p {
 	font-size: 15px;
-	font-family: "Poppins", sans-serif;
+	font-family: "raleway";
 	color: #707070;
 	font-weight: 400;
 	line-height: 26px;
@@ -415,7 +415,7 @@ ol {
 
 .header__widget span {
 	font-size: 14px;
-	font-family: "Aldrich", sans-serif;
+	font-family: "raleway";
 	color: #b7b7b7;
 	display: block;
 	margin-bottom: 10px;
@@ -900,7 +900,7 @@ ol {
 .testimonial__client__item h5 {
 	color: #111111;
 	font-weight: 600;
-	font-family: "Poppins", sans-serif;
+	font-family: "raleway";
 	font-size: 15px;
 	margin-bottom: 5px;
 }
@@ -1008,7 +1008,7 @@ ol {
 .team__text .team__title h5 {
 	color: #ffffff;
 	font-weight: 600;
-	font-family: "Poppins", sans-serif;
+	font-family: "raleway";
 	margin-bottom: 6px;
 }
 
@@ -1149,7 +1149,7 @@ ol {
 .latest__item__text h4 {
 	color: #111111;
 	font-size: 22px;
-	font-family: "Poppins", sans-serif;
+	font-family: "raleway";
 	font-weight: 600;
 	line-height: 32px;
 	margin-bottom: 12px;
@@ -1369,7 +1369,7 @@ ol {
 .footer__widget h6 {
 	color: #ffffff;
 	font-weight: 600;
-	font-family: "Poppins", sans-serif;
+	font-family: "raleway";
 	margin-bottom: 30px;
 }
 
@@ -1390,7 +1390,7 @@ ol {
 .footer__address h6 {
 	color: #ffffff;
 	font-weight: 600;
-	font-family: "Poppins", sans-serif;
+	font-family: "raleway";
 	margin-bottom: 30px;
 }
 
@@ -1720,7 +1720,7 @@ ol {
 .blog__item h2 {
 	color: #111111;
 	font-weight: 600;
-	font-family: "Poppins", sans-serif;
+	font-family: "raleway";
 	line-height: 48px;
 	margin-bottom: 30px;
 }
@@ -1769,7 +1769,7 @@ ol {
 	right: 50px;
 	bottom: 26px;
 	content: "“";
-	font-family: "Aldrich", sans-serif;
+	font-family: "raleway";
 	font-size: 120px;
 	color: #ffffff;
 	opacity: 0.5;
@@ -1779,7 +1779,7 @@ ol {
 .blog__item__quote p {
 	color: #ffffff;
 	font-size: 20px;
-	font-family: "Aldrich", sans-serif;
+	font-family: "raleway";
 	line-height: 32px;
 	text-transform: uppercase;
 }
@@ -1956,7 +1956,7 @@ ol {
 .blog__sidebar__feature__item__text h6 {
 	color: #111111;
 	font-size: 15px;
-	font-family: "Poppins", sans-serif;
+	font-family: "raleway";
 	font-weight: 600;
 	line-height: 26px;
 }
@@ -2167,7 +2167,7 @@ ol {
 .blog__details__title h2 {
 	color: #111111;
 	font-size: 48px;
-	font-family: "Poppins", sans-serif;
+	font-family: "raleway";
 	line-height: 60px;
 	font-weight: 600;
 	margin-bottom: 30px;
@@ -2296,7 +2296,7 @@ ol {
 .blog__details__author__text h5 {
 	color: #111111;
 	font-weight: 600;
-	font-family: "Poppins", sans-serif;
+	font-family: "raleway";
 	margin-bottom: 12px;
 }
 
@@ -2339,7 +2339,7 @@ ol {
 
 .blog__details__btns__item__text h6 {
 	font-size: 15px;
-	font-family: "Poppins", sans-serif;
+	font-family: "raleway";
 	color: #8d8d8d;
 	margin-bottom: 6px;
 }
@@ -2352,7 +2352,7 @@ ol {
 
 .blog__details__btns__item__text h5 {
 	font-size: 20px;
-	font-family: "Poppins", sans-serif;
+	font-family: "raleway";
 	color: #353535;
 	font-weight: 600;
 }
@@ -2734,7 +2734,7 @@ ol {
 	}
 	.offcanvas__widget span {
 		font-size: 14px;
-		font-family: "Aldrich", sans-serif;
+		font-family: "raleway";
 		color: #b7b7b7;
 		display: block;
 		margin-bottom: 10px;
@@ -2868,7 +2868,7 @@ ol {
 	}
 	.offcanvas__widget span {
 		font-size: 14px;
-		font-family: "Aldrich", sans-serif;
+		font-family: "raleway";
 		color: #b7b7b7;
 		display: block;
 		margin-bottom: 10px;
