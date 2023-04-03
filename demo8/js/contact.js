@@ -1,5 +1,14 @@
 jQuery(document).ready(function($){
 
+	$(document).on('click', '.phn', function() { 
+        location.href='tel:+91-7307692370'
+    });
+	$(document).on('click', '.cont', function() { 
+        location.href='https://wa.me/917307692370?text=Im%20interested%20in%20'
+    });
+
+
+
 	 $(document).on('click', '.place_order', function(){ 
 			
 			var name = $("#name").val();
